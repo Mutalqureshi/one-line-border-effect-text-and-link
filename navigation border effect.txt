@@ -1,0 +1,18 @@
+https://www.youtube.com/watch?v=Ap3GPr5jNVY
+create a navigation 
+nav ke under anchor ke bad div bnai he line ke name se -- width  120px height 3px
+
+---
+nav --> transform :translate(-50% ,-50%);
+
+a:nth-child(2): hover ~ .line {
+	transform : translate(125px);
+}
+a:nth-child(3): hover ~ .line {
+	transform : translate(250px);
+}
+a:nth-child(4): hover ~ .line {
+	transform : translate(375xpx);
+}
+
+
